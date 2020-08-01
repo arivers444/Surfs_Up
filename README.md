@@ -17,7 +17,7 @@
 ---
 ### Suggestions
   - It is suggested that:
-      1. All months be analyzed to determine if Spring and Fall have more or less rain.
-      2. The number of rainy days be analyzed.  If there is light rain all day for a week that equates to 3 inches, but keeps customers indoors, that could be more detrimental than one day of rain that equates to 3 inches of heavy rain.     
-      2. The duration of rain from a time standpoint should be analyzed. Do storms last 15 mins or 8hours?  How many days are complete washouts versus days where there are quick, intermittent storms.
+      1.  All months be analyzed to determine if Spring and Fall have more or less rain.
+      2.  The number of rainy days be analyzed.  If there is light rain all day for a week that equates to 3 inches, but keeps customers indoors, that could be more detrimental than one day of rain that equates to 3 inches of heavy rain.     
+      3.  The duration of rain from a time standpoint should be analyzed. Do storms last 15 mins or 8 hours?  How many days are complete washouts versus days where there are quick, intermittent storms.
 ---
